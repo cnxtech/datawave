@@ -10,7 +10,7 @@
     <artifactId>spring-boot-starter-datawave</artifactId>
     <version>1.6-SNAPSHOT</version>
     <properties>
-        <version.accumulo>1.9.2</version.accumulo>
+        <version.accumulo>1.10.1</version.accumulo>
         <version.dropwizard-metrics>3.1.5</version.dropwizard-metrics>
         <version.in-memory-accumulo>1.9.2.1</version.in-memory-accumulo>
         <version.jackson>2.9.6</version.jackson>
